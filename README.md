@@ -1,2 +1,3 @@
 # Ender-5-4.2.7-Motherboard-
-Printer +screen firmware for Marlin and bin file for Klipper. 
+All questins should be directed to u/PaulDarkoff.
+I only uploaded their files per their request to have them archived. 
