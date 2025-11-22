@@ -1,0 +1,7 @@
+v4 Removed
+- Advanced Pause
+- Emergency Parser
+- Power_Loss_Recovery
+- Fillament Runout
+
+Otherwise printer will freeze on filament runout and pause
